@@ -1,0 +1,7 @@
+Testes Automatizados
+
+1 - testes unitários - determinada funcionalidade da api (TDD)
+
+2 - testes de integração - funcionalidade completa da api (fluxo)
+
+3 - testes ponta a ponta - api front-end (E2E)
